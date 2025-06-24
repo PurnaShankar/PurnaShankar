@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @PurnaShankar
 - 👀 I’m interested in developing, programming and AI
-- 🌱 I’m learned development in java, I'm currently learning generative AI. - 
+- 🌱 I’ve learned development in java, I'm currently working on generative AI projects.
 - 💞️ I’m looking to collaborate on any kind of projects and problem solving.
 - 📫 How to reach me : gmail id: purnaboppana66@gmail.com
 - 😄 Pronouns: He/Him
